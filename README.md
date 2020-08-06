@@ -22,12 +22,3 @@ add(2, 2)
     4
 
 
-
-```python
-from nbdev import *
-notebook2script()
-```
-
-    Converted 00_core.ipynb.
-    Converted index.ipynb.
-
